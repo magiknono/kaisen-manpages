@@ -1,0 +1,11 @@
+Package: kaisen-manpages
+Version: 1:20210131+kaisen1
+Architecture: all
+Maintainer: Arnaud Cormier <arnaud@localhost.org>
+Installed-Size: 103517
+Depends: apache2
+Section: kaisen-packages
+Priority: optional
+Homepage: https://manpages.kaisen-linux.org
+Description: Kaisen manpages on localhost
+ Offline documentation from manpages.kaisen-linux.org
