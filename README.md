@@ -10,5 +10,6 @@
 
 ### Notes
 
-- First try
+- First try : ko
+- Second try : ok, fix broken links in dropdown
 - experimental state / no signature
