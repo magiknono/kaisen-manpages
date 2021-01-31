@@ -1,5 +1,9 @@
 kaisen-manpages (1:20210131+kaisen1) UNRELEASED; urgency=medium
 
+  [ Arnaud Cormier ]
   * Initial release.
+
+  [ arnaud ]
+  * Fix broken links in dropdown menu js file
 
  -- Arnaud Cormier <arnaud@localhost.com>  Sun, 31 Jan 2021 22:19:53 +0100
