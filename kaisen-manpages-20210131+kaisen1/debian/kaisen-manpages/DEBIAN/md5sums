@@ -1,4 +1,4 @@
-d645ab2af1e862f95eb3edce7863a4f2  usr/share/doc/kaisen-manpages/changelog.gz
+3df6a929b25a0f6ad9d664e3751797c3  usr/share/doc/kaisen-manpages/changelog.gz
 ea853b5a5d910bb398aa1a86e13cfea6  usr/share/doc/kaisen-manpages/copyright
 ef0df75d3f652f7baa04f80c2138df8e  usr/share/manpages/2ping.html
 e16975f8d7d141bd6df133d30ac32993  usr/share/manpages/404.html
@@ -153,7 +153,7 @@ ad4a9cf49645a84aca45c69c4bea93b8  usr/share/manpages/category/dist/search_items-
 1d0ef4d65fa85beffb6d76b4db7cd100  usr/share/manpages/category/dmidecode.html
 b4fdfd72990d74b813f4d8be5f517ab0  usr/share/manpages/category/dnsenum.html
 934b54e55bca71785213456aad46f59d  usr/share/manpages/category/dnstop.html
-24019c1564fbd71f8fc47493adb56398  usr/share/manpages/category/doc-versions.js
+d4014db30dcfb16cac11cb901a4264df  usr/share/manpages/category/doc-versions.js
 779b292fc755aa84d29d5c3bef86b9d9  usr/share/manpages/category/docker-compose.html
 d7f28b816846d1f7588bac824144ccd4  usr/share/manpages/category/docker.html
 020dbaae71162ad6d8ef6d0591eaae1c  usr/share/manpages/category/driftnet.html
@@ -561,7 +561,7 @@ d3359b838fc5c3e3e3f69ed9bd18d41d  usr/share/manpages/dist/sidebar_items-d3359b83
 70d529a98a7eeb7c954697e76091e20b  usr/share/manpages/dmidecode.html
 ab60baaed9f1de20efcf2acf259cc638  usr/share/manpages/dnsenum.html
 9298eb008033e2057e41b5836aeaddd8  usr/share/manpages/dnstop.html
-ec6645351f6809ab39f0c2dd35bae236  usr/share/manpages/doc-versions.js
+98b67755e89862d088c168d9bdf07088  usr/share/manpages/doc-versions.js
 ba24ef486f3c68dc94bd3cdf49c2b370  usr/share/manpages/docker.html
 717f9bc22e7caaf6ec223dc730427d63  usr/share/manpages/driftnet.html
 b507585a9a03ec125d7016d5863d9d69  usr/share/manpages/dsniff.html
