@@ -7,14 +7,14 @@ Source: kaisen-manpages
 Binary: kaisen-manpages
 Architecture: all
 Version: 1:20210131+kaisen1
-Distribution: UNRELEASED
+Distribution: kaisen-testing
 Urgency: medium
 Maintainer: Arnaud Cormier - Magiknono <magiknono@kaisen-linux.org>
 Changed-By: Arnaud Cormier - Magiknono <magiknono@kaisen-linux.org>
 Description:
  kaisen-manpages - Kaisen manpages on localhost
 Changes:
- kaisen-manpages (1:20210131+kaisen1) UNRELEASED; urgency=medium
+ kaisen-manpages (1:20210131+kaisen1) kaisen-testing; urgency=medium
  .
    [ Arnaud Cormier - Magiknono]
    * Initial release.
@@ -22,26 +22,26 @@ Changes:
    [ arnaud ]
    * Fix broken links in dropdown menu js file
 Checksums-Sha1:
- ec1fa2b6130b1fcb61de12f0f26bb787af011af5 16355496 kaisen-manpages_20210131+kaisen1_all.deb
- 6b6f6ca9412a6d93a7420fa093e0643c02377a57 5879 kaisen-manpages_20210131+kaisen1_amd64.buildinfo
+ 98478f6fcacb453b23a84a8db3527ed9c7f07808 16355488 kaisen-manpages_20210131+kaisen1_all.deb
+ 2358552cf8c4d2f22b968aa179ec258fd8d67c5d 5879 kaisen-manpages_20210131+kaisen1_amd64.buildinfo
 Checksums-Sha256:
- 6642d31a43720298aedde6a87abf723e96e2c203f71ba8b6bfd98dc435a01a4d 16355496 kaisen-manpages_20210131+kaisen1_all.deb
- 50fa7bda2e9c63e82d1745a8407e86e96b52483ba6645302f3a689e5df7fc156 5879 kaisen-manpages_20210131+kaisen1_amd64.buildinfo
+ f80ff0325085aa4f47f6c5cf778847f367fdad47b7bfbf419b42f8b34c0fe875 16355488 kaisen-manpages_20210131+kaisen1_all.deb
+ fe2f049f3b4899aac3dbf0aee0e0d9209e9f58044b5c326aa907a3e257f214ec 5879 kaisen-manpages_20210131+kaisen1_amd64.buildinfo
 Files:
- 0b420a41b63da2a6c272c7fd7eec6d7c 16355496 kaisen-packages optional kaisen-manpages_20210131+kaisen1_all.deb
- 2bbcf6a58f7cd0d90a8970646a2ec60f 5879 kaisen-packages optional kaisen-manpages_20210131+kaisen1_amd64.buildinfo
+ 6dc5c1df7d14554c39f5724eac392ce2 16355488 kaisen-packages optional kaisen-manpages_20210131+kaisen1_all.deb
+ bf989313e2f81ec43086c23f5959d018 5879 kaisen-packages optional kaisen-manpages_20210131+kaisen1_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQHPBAEBCgA5FiEEqR5l0Ss6UTqn6uqdbGhcbCEhdFwFAmAYfJUbHG1hZ2lrbm9u
-b0BrYWlzZW4tbGludXgub3JnAAoJEGxoXGwhIXRcUf8L/RZThbm3xtsUnq30UEkS
-q575VA1ochaoIuUtXMcp2zrqmriS0t7K/S/SceV6zqqxIgEFQvgwZepSnvnrDDVw
-Y7vo0IQa4KXCnfJFdiz6muV+RQ6krqd4FIqEnExzdO4gS0B0UtY6HAApsLnI9xll
-9RFf66mcIHv3riT8MNLh37oSEBFp4V9uRGoxZLNbVmubm8gxW1YnmNcBVjMoBI2j
-mmH4FRVFaD0saJEvLjXQ/+oGv2geNUAFxeAWBVQLZhfKp6Quq2Ly9hh99xJdzjQl
-adwF6AO12/WM0gl3ywxsFcf1G6BQQU/ZiHIuKEk410Iz3WM5gC/8TIBJBkCDqlfE
-9i71E6sYp3Sv3a9iUQjVdK12OrzKvW1Ih72QFMmM1Fgqbt+NSJAPfK3cxcVCluEY
-lilgaovPd+Hc6vT2tfIy4cDiEm/1Xb3yoSMo8VjBaC9C2FGz32tKcigSLGenGS8Q
-BZiqlL4nTUGM5w628NQUh6wQL6crSjUTelINNu7rdMgHNg==
-=eQ6q
+iQHPBAEBCgA5FiEEqR5l0Ss6UTqn6uqdbGhcbCEhdFwFAmAYgUcbHG1hZ2lrbm9u
+b0BrYWlzZW4tbGludXgub3JnAAoJEGxoXGwhIXRcBWwMAL01ljW895PRzQA+t/fd
+zlvp5Z5LUEzuC504McZh3UuHdT4rFkRuowXeZ1v5r/FI+weu84U3phvjzGF/ssiV
+Oq8floe0yHtaqm2bHAw49GOASTGPTFrgrfcUgO4HKXPOvKlvFQ7FFjftZZaYkYu5
+Pnu8cwz+GX9i/dfYn8AZ3v/a7RsI+sojDDZCC7Fvnr+2Mfv+GXaiHt15WPktjLmW
+WO2X0WQC7Kvd9B1Y6P/ZepqRY910evwmicuVVsE/JMrkxxvh2//4OhhSzD2WGL4N
+ORqRQBlcC8L6KgbowZa/ISaJfPTI89VMq8nNMDMtPioL95n2+mpMbvSQsH9w5pC/
+uebDKqqumHsm8XdMv//eSRtRHGA051UPW0mpdBXC9PJ3D6kcpMUZ/gKg/cJ0Y7zo
+pb8WfhSQvGo750xrOzU+9bg9ujhGn6SF0e9/qyE2mM/B13DgfAfNSzzihLLw+5dV
+tpzCXkqnimLRrTjk66S5LT8D2tpLl28D/f53zz79NPWwMQ==
+=Eezq
 -----END PGP SIGNATURE-----
