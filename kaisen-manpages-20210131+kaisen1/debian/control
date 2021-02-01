@@ -1,7 +1,7 @@
 Source: kaisen-manpages
 Section: kaisen-packages
 Priority: optional
-Maintainer: Arnaud Cormier <arnaud@localhost.org>
+Maintainer: Arnaud Cormier - Magiknono <magiknono@kaisen-linux.org>
 Build-Depends: debhelper (>= 13~)
 Standards-Version: 4.5.0
 Rules-Requires-Root: no

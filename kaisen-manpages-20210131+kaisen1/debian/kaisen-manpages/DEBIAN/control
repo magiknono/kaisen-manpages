@@ -1,7 +1,7 @@
 Package: kaisen-manpages
 Version: 1:20210131+kaisen1
 Architecture: all
-Maintainer: Arnaud Cormier <arnaud@localhost.org>
+Maintainer: Arnaud Cormier - Magiknono <magiknono@kaisen-linux.org>
 Installed-Size: 103517
 Depends: apache2
 Section: kaisen-packages

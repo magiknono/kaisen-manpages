@@ -1,0 +1,47 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 31 Jan 2021 22:19:53 +0100
+Source: kaisen-manpages
+Binary: kaisen-manpages
+Architecture: all
+Version: 1:20210131+kaisen1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Arnaud Cormier - Magiknono <magiknono@kaisen-linux.org>
+Changed-By: Arnaud Cormier - Magiknono <magiknono@kaisen-linux.org>
+Description:
+ kaisen-manpages - Kaisen manpages on localhost
+Changes:
+ kaisen-manpages (1:20210131+kaisen1) UNRELEASED; urgency=medium
+ .
+   [ Arnaud Cormier - Magiknono]
+   * Initial release.
+ .
+   [ arnaud ]
+   * Fix broken links in dropdown menu js file
+Checksums-Sha1:
+ ec1fa2b6130b1fcb61de12f0f26bb787af011af5 16355496 kaisen-manpages_20210131+kaisen1_all.deb
+ 6b6f6ca9412a6d93a7420fa093e0643c02377a57 5879 kaisen-manpages_20210131+kaisen1_amd64.buildinfo
+Checksums-Sha256:
+ 6642d31a43720298aedde6a87abf723e96e2c203f71ba8b6bfd98dc435a01a4d 16355496 kaisen-manpages_20210131+kaisen1_all.deb
+ 50fa7bda2e9c63e82d1745a8407e86e96b52483ba6645302f3a689e5df7fc156 5879 kaisen-manpages_20210131+kaisen1_amd64.buildinfo
+Files:
+ 0b420a41b63da2a6c272c7fd7eec6d7c 16355496 kaisen-packages optional kaisen-manpages_20210131+kaisen1_all.deb
+ 2bbcf6a58f7cd0d90a8970646a2ec60f 5879 kaisen-packages optional kaisen-manpages_20210131+kaisen1_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHPBAEBCgA5FiEEqR5l0Ss6UTqn6uqdbGhcbCEhdFwFAmAYfJUbHG1hZ2lrbm9u
+b0BrYWlzZW4tbGludXgub3JnAAoJEGxoXGwhIXRcUf8L/RZThbm3xtsUnq30UEkS
+q575VA1ochaoIuUtXMcp2zrqmriS0t7K/S/SceV6zqqxIgEFQvgwZepSnvnrDDVw
+Y7vo0IQa4KXCnfJFdiz6muV+RQ6krqd4FIqEnExzdO4gS0B0UtY6HAApsLnI9xll
+9RFf66mcIHv3riT8MNLh37oSEBFp4V9uRGoxZLNbVmubm8gxW1YnmNcBVjMoBI2j
+mmH4FRVFaD0saJEvLjXQ/+oGv2geNUAFxeAWBVQLZhfKp6Quq2Ly9hh99xJdzjQl
+adwF6AO12/WM0gl3ywxsFcf1G6BQQU/ZiHIuKEk410Iz3WM5gC/8TIBJBkCDqlfE
+9i71E6sYp3Sv3a9iUQjVdK12OrzKvW1Ih72QFMmM1Fgqbt+NSJAPfK3cxcVCluEY
+lilgaovPd+Hc6vT2tfIy4cDiEm/1Xb3yoSMo8VjBaC9C2FGz32tKcigSLGenGS8Q
+BZiqlL4nTUGM5w628NQUh6wQL6crSjUTelINNu7rdMgHNg==
+=eQ6q
+-----END PGP SIGNATURE-----

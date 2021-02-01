@@ -12,4 +12,4 @@
 
 - First try : ko
 - Second try : ok, fix broken links in dropdown
-- experimental state / no signature
+- Third try : update files and add public signature for .buildinfo and .changes
