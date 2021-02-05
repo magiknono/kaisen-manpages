@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 05 Feb 2021 11:38:38 +0100
+Source: kaisen-manpages
+Binary: kaisen-manpages
+Architecture: source all
+Version: 1:20210131+kaisen2
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Arnaud Cormier - Magiknono <magiknono@kaisen-linux.org>
+Changed-By: Arnaud Cormier - Magiknono <magiknono@kaisen-linux.org>
+Description:
+ kaisen-manpages - Kaisen manpages on localhost
+Changes:
+ kaisen-manpages (1:20210131+kaisen2) UNRELEASED; urgency=medium
+ .
+   * Updating postinst with good url
+Checksums-Sha1:
+ 7b37be23ed6159b16aa53d6291dd9fa02c4a7b8c 823 kaisen-manpages_20210131+kaisen2.dsc
+ 61d81186a6251a6c8cf855393e7730fa367e0ca8 16255980 kaisen-manpages_20210131+kaisen2.tar.xz
+ 59a04c550c9c433d03dae8957e5145fd161a2cce 16355568 kaisen-manpages_20210131+kaisen2_all.deb
+ 1cb086b2c921f2c477922dacefff737de17d8ab3 5404 kaisen-manpages_20210131+kaisen2_amd64.buildinfo
+Checksums-Sha256:
+ 8ec07104fece6831c4a04040e4f41203da8d85efcc5f467c77b7f36f4cad6b10 823 kaisen-manpages_20210131+kaisen2.dsc
+ abbe7bb6de90dbdc83279a898857b0c1964b6cb0530cb9784e02d8f730392fed 16255980 kaisen-manpages_20210131+kaisen2.tar.xz
+ adfa380f4ab4b9d2ca3904ec1a95a4fd137e8fc01843328e5c120cd09d23bc60 16355568 kaisen-manpages_20210131+kaisen2_all.deb
+ d2ce47707e018e332917c51696834132ea3e8734cf85e634860dba40242357b9 5404 kaisen-manpages_20210131+kaisen2_amd64.buildinfo
+Files:
+ e7ecbfec7b3222491299b5a27be50e7f 823 kaisen-packages optional kaisen-manpages_20210131+kaisen2.dsc
+ 92dc9aac6ba7307b6cb0effa3e08df7b 16255980 kaisen-packages optional kaisen-manpages_20210131+kaisen2.tar.xz
+ 393f9d9582b750ed037467d55936db7d 16355568 kaisen-packages optional kaisen-manpages_20210131+kaisen2_all.deb
+ 7767775a4a9d82941f66225e41568011 5404 kaisen-packages optional kaisen-manpages_20210131+kaisen2_amd64.buildinfo

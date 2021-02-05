@@ -1,0 +1,15 @@
+kaisen-manpages (1:20210131+kaisen2) UNRELEASED; urgency=medium
+
+  * Updating postinst with good url
+
+ -- Arnaud Cormier - Magiknono <magiknono@kaisen-linux.org>  Fri, 05 Feb 2021 11:38:38 +0100
+
+kaisen-manpages (1:20210131+kaisen1) kaisen-testing; urgency=medium
+
+  [ Arnaud Cormier - Magiknono]
+  * Initial release.
+
+  [ arnaud ]
+  * Fix broken links in dropdown menu js file
+
+ -- Arnaud Cormier - Magiknono <magiknono@kaisen-linux.org>  Sun, 31 Jan 2021 22:19:53 +0100

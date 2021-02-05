@@ -1,9 +1,0 @@
-#!/bin/bash
-
-set -e
-
-cp -avr /usr/share/manpages /var/www/html
-echo -e " \033[0;32mBrowse the doc with your web browser at url: http://localhost/manpages\033[0m"
-#DEBHELPER
-
-rm -rf /usr/share/manpages
