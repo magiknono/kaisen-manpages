@@ -4,17 +4,20 @@ Hash: SHA512
 Format: 1.0
 Source: kaisen-manpages
 Binary: kaisen-manpages
-Architecture: all
+Architecture: all source
 Version: 1:20210131+kaisen1
 Checksums-Md5:
+ e161ee5ac01e2767d9fc9622c40cdca1 1532 kaisen-manpages_20210131+kaisen1.dsc
  6dc5c1df7d14554c39f5724eac392ce2 16355488 kaisen-manpages_20210131+kaisen1_all.deb
 Checksums-Sha1:
+ ec47c2bf21fdb415f90f7389417f49525755269b 1532 kaisen-manpages_20210131+kaisen1.dsc
  98478f6fcacb453b23a84a8db3527ed9c7f07808 16355488 kaisen-manpages_20210131+kaisen1_all.deb
 Checksums-Sha256:
+ 32ca781ad907bd6540bf79cc69bd12af3c1046538f678d9172888bee583a5d87 1532 kaisen-manpages_20210131+kaisen1.dsc
  f80ff0325085aa4f47f6c5cf778847f367fdad47b7bfbf419b42f8b34c0fe875 16355488 kaisen-manpages_20210131+kaisen1_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 01 Feb 2021 23:31:34 +0100
+Build-Date: Fri, 05 Feb 2021 11:08:15 +0100
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-programs
@@ -194,15 +197,15 @@ Environment:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQHPBAEBCgA5FiEEqR5l0Ss6UTqn6uqdbGhcbCEhdFwFAmAYgUYbHG1hZ2lrbm9u
-b0BrYWlzZW4tbGludXgub3JnAAoJEGxoXGwhIXRctdkMAMbDDEy2HOw0OAGDGBGL
-BM5ca8OqWWkMrUoZjigMShtZqJyBzxhEwuzyHOaf4UijyG2k0naSiSRGYJUjDgLI
-5Zg6YbqauncgK4GEQS3PJWW6McwNm87IMCzNTzNKaNzg+nhUU0SxuIp1eIkshDyo
-otm46kKJJhyOifY/Vdy1qI53R2U+bz5fgX6odj5tdYu+UABL7AQajoQlUB6jxyBs
-u0X9coQMf7ZdmNezfwhWySxbX/0kSoPddHJ8UWS5l42srCFRmy5jSa1E36eOV9Xs
-dfk+/1py0uUdp8wKoh4GZ2fqjmpwwovJehxgAgyb2KruxBQ4jpmTJdDXdcCPtGhk
-qL2O7CK41otLCRRKk3u18r7Pw2kb8hUdsNZSzZoQwEn+otj6zu7r35G8i5e9zSLu
-dNtI4Rlih4f6iCpTPQfuA7cVkCrk9w2QKcnWGygPoGF/w3WoYFiwK/Vh4MFB8G/H
-p5LTQFGosSIKp27qWBky0eKVyocUpPJ8TPWik2ERDz7Fmg==
-=ub3r
+iQGzBAEBCgAdFiEEqR5l0Ss6UTqn6uqdbGhcbCEhdFwFAmAdGRAACgkQbGhcbCEh
+dFxiHgv/dVNB2rhfqTR4yEWt2KWW4BWLBa6VZbM8CF8qIR6Tsz51HRV76J/wKfXs
+BlH6E+BFVJX+UBJ43NFETMuyH++9izDQ4t/h615FgCqi5bQ6NPiEWcJq2xq3s9bf
+ImPaOeGXA7czpxMpgS2T829TQLrBnJU9yS+5ZapphZy3vVWlhm38IY9E2j35co8s
+fBS0wbgDLpnEHmqsEF/Wt4z2iRsNYaL9vzx5hLcgL5VEcIgKayfoaQ51SgoE3+ku
+Et2lcsRFHC7H6wZeqwXrNO1PW1171/IkchbohcZuZ8BWth8nsczSfx85OYvziu0/
+jnHlTjC0lbw658W9gya+aMi/frUd/pzOiBUjTQHrt82Vrnxa0xd3BjoRCwuGYJye
+53R8PfpYza2WEOQ3XXfOq2jZMyr0DQQL/bXstgsl+n2RYxIf4v1piVNPp50IsBMw
+hmQEkkuAM68BmS1aQtHkx4mrn92mgvqsFd8JFKNxmEaS7AnV21aDQPHxYHJlMlYz
+zX1YezRl
+=o4If
 -----END PGP SIGNATURE-----

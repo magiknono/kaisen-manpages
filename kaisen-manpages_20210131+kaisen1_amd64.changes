@@ -5,7 +5,7 @@ Format: 1.8
 Date: Sun, 31 Jan 2021 22:19:53 +0100
 Source: kaisen-manpages
 Binary: kaisen-manpages
-Architecture: all
+Architecture: source all
 Version: 1:20210131+kaisen1
 Distribution: kaisen-testing
 Urgency: medium
@@ -22,26 +22,32 @@ Changes:
    [ arnaud ]
    * Fix broken links in dropdown menu js file
 Checksums-Sha1:
+ ec47c2bf21fdb415f90f7389417f49525755269b 1532 kaisen-manpages_20210131+kaisen1.dsc
+ 34f1a931764cf5c6e020ad2131db6dcf10f3043e 16256200 kaisen-manpages_20210131+kaisen1.tar.xz
  98478f6fcacb453b23a84a8db3527ed9c7f07808 16355488 kaisen-manpages_20210131+kaisen1_all.deb
- 2358552cf8c4d2f22b968aa179ec258fd8d67c5d 5879 kaisen-manpages_20210131+kaisen1_amd64.buildinfo
+ 9291950b29ecec95cd1d8c892b38daacf15bfe29 6114 kaisen-manpages_20210131+kaisen1_amd64.buildinfo
 Checksums-Sha256:
+ 32ca781ad907bd6540bf79cc69bd12af3c1046538f678d9172888bee583a5d87 1532 kaisen-manpages_20210131+kaisen1.dsc
+ 67f86f68e0b270753130eeb2267ccc9b7d0f457a179908a480bba4f0101acdb0 16256200 kaisen-manpages_20210131+kaisen1.tar.xz
  f80ff0325085aa4f47f6c5cf778847f367fdad47b7bfbf419b42f8b34c0fe875 16355488 kaisen-manpages_20210131+kaisen1_all.deb
- fe2f049f3b4899aac3dbf0aee0e0d9209e9f58044b5c326aa907a3e257f214ec 5879 kaisen-manpages_20210131+kaisen1_amd64.buildinfo
+ 6eaa3e226af420fca86d525189f51476094e3140393c10241724b6025b6195ff 6114 kaisen-manpages_20210131+kaisen1_amd64.buildinfo
 Files:
+ e161ee5ac01e2767d9fc9622c40cdca1 1532 kaisen-packages optional kaisen-manpages_20210131+kaisen1.dsc
+ 9d7564365a7483fc06b55ccc0e997a58 16256200 kaisen-packages optional kaisen-manpages_20210131+kaisen1.tar.xz
  6dc5c1df7d14554c39f5724eac392ce2 16355488 kaisen-packages optional kaisen-manpages_20210131+kaisen1_all.deb
- bf989313e2f81ec43086c23f5959d018 5879 kaisen-packages optional kaisen-manpages_20210131+kaisen1_amd64.buildinfo
+ 35f9461cd8fd9afe200538b2ed6cd377 6114 kaisen-packages optional kaisen-manpages_20210131+kaisen1_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQHPBAEBCgA5FiEEqR5l0Ss6UTqn6uqdbGhcbCEhdFwFAmAYgUcbHG1hZ2lrbm9u
-b0BrYWlzZW4tbGludXgub3JnAAoJEGxoXGwhIXRcBWwMAL01ljW895PRzQA+t/fd
-zlvp5Z5LUEzuC504McZh3UuHdT4rFkRuowXeZ1v5r/FI+weu84U3phvjzGF/ssiV
-Oq8floe0yHtaqm2bHAw49GOASTGPTFrgrfcUgO4HKXPOvKlvFQ7FFjftZZaYkYu5
-Pnu8cwz+GX9i/dfYn8AZ3v/a7RsI+sojDDZCC7Fvnr+2Mfv+GXaiHt15WPktjLmW
-WO2X0WQC7Kvd9B1Y6P/ZepqRY910evwmicuVVsE/JMrkxxvh2//4OhhSzD2WGL4N
-ORqRQBlcC8L6KgbowZa/ISaJfPTI89VMq8nNMDMtPioL95n2+mpMbvSQsH9w5pC/
-uebDKqqumHsm8XdMv//eSRtRHGA051UPW0mpdBXC9PJ3D6kcpMUZ/gKg/cJ0Y7zo
-pb8WfhSQvGo750xrOzU+9bg9ujhGn6SF0e9/qyE2mM/B13DgfAfNSzzihLLw+5dV
-tpzCXkqnimLRrTjk66S5LT8D2tpLl28D/f53zz79NPWwMQ==
-=Eezq
+iQGzBAEBCgAdFiEEqR5l0Ss6UTqn6uqdbGhcbCEhdFwFAmAdGRAACgkQbGhcbCEh
+dFzHGAwAw99f/sng6X+dHEEBdIk6S1UBmbHDCeDmaxd1KTVX2UKNhFJ7RFpIsMz7
+YPe0km9miIDx2SzxDNMs7iv54fnYZ+kzaMEBXCm/tsv+odF/SZXuGeDl4PWlPAHg
+yCA4qQlSA/sNA1oRZMVHx06VzinazbyyzXiXjYtRUD8M44NMU6297ysQ/9qotyS5
+RwrnJhwueTNiJCrNaneFXu/fjFMr91AGqR96/q46K1JX6UT3klC7pEY7Ed6+8uz7
+j5uP9aOiAxdnq8FGitYcPJcJsajFgUjJumNJ7AbDbdj+Or9E3Qx3Adzg41vjisRQ
+CZPu7BCU8W9gikIr6KDQMfAzeYIt690U8/XRUnCLTG5OdtOoP1WzEHyQZDqRZ9R7
+mKvG0u7Q7PVZLoUzmphN+ZMomVCRkTJfA8QU9nP8J4aO/zfofa5Vvwte7UaTIbgr
+52z3uC53xK8/0K+6l1B40K1wi/mkfhrbbmKH6GXwmNodfg5Yd/OdvsXPwkWxgjyq
+wuOvj9DB
+=E/bN
 -----END PGP SIGNATURE-----

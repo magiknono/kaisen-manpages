@@ -1,0 +1,50 @@
+ dpkg-buildpackage -rfakeroot -us -uc -ui
+dpkg-buildpackage: info: paquet source kaisen-manpages
+dpkg-buildpackage: info: version source 1:20210131+kaisen1
+dpkg-buildpackage: info: distribution source kaisen-testing
+dpkg-buildpackage: info: source changé par Arnaud Cormier - Magiknono <magiknono@kaisen-linux.org>
+ dpkg-source --before-build .
+dpkg-buildpackage: info: architecture hôte amd64
+ debian/rules clean
+dh clean
+   dh_clean
+ dpkg-source -b .
+dpkg-source: info: utilisation du format source « 3.0 (native) »
+dpkg-source: info: construction de kaisen-manpages dans kaisen-manpages_20210131+kaisen1.tar.xz
+dpkg-source: info: construction de kaisen-manpages dans kaisen-manpages_20210131+kaisen1.dsc
+ debian/rules binary
+dh binary
+   dh_update_autotools_config
+   dh_autoreconf
+   create-stamp debian/debhelper-build-stamp
+   dh_prep
+   dh_install
+   dh_installdocs
+   dh_installchangelogs
+   dh_perl
+   dh_link
+   dh_strip_nondeterminism
+   dh_compress
+   dh_fixperms
+   dh_missing
+   dh_installdeb
+   dh_gencontrol
+   dh_md5sums
+   dh_builddeb
+dpkg-deb: building package 'kaisen-manpages' in '../kaisen-manpages_20210131+kaisen1_all.deb'.
+ dpkg-genbuildinfo
+ dpkg-genchanges  >../kaisen-manpages_20210131+kaisen1_amd64.changes
+dpkg-genchanges: info: inclusion du code source original dans l'envoi (« upload »)
+ dpkg-source --after-build .
+dpkg-buildpackage: info: envoi complet ; paquet Debian natif (inclusion du code source complet)
+Now signing changes and any dsc files...
+ signfile dsc kaisen-manpages_20210131+kaisen1.dsc A91E65D12B3A513AA7EAEA9D6C685C6C2121745C
+
+ fixup_buildinfo kaisen-manpages_20210131+kaisen1.dsc kaisen-manpages_20210131+kaisen1_amd64.buildinfo
+ signfile buildinfo kaisen-manpages_20210131+kaisen1_amd64.buildinfo A91E65D12B3A513AA7EAEA9D6C685C6C2121745C
+
+ fixup_changes dsc kaisen-manpages_20210131+kaisen1.dsc kaisen-manpages_20210131+kaisen1_amd64.changes
+ fixup_changes buildinfo kaisen-manpages_20210131+kaisen1_amd64.buildinfo kaisen-manpages_20210131+kaisen1_amd64.changes
+ signfile changes kaisen-manpages_20210131+kaisen1_amd64.changes A91E65D12B3A513AA7EAEA9D6C685C6C2121745C
+
+Successfully signed dsc, buildinfo, changes files
